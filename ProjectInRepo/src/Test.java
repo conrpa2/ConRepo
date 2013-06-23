@@ -12,6 +12,7 @@ public class Test {
 		// TODO Auto-generated method stub
 //Added for first Commit - 1
 		// Second commit - 2
+		// Commit after pushing to Git - 3
 	}
 
 }
